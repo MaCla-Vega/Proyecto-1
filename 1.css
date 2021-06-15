@@ -1,0 +1,25 @@
+body{
+    margin: 130px;;
+    color: blue;
+}
+#titulo {
+font-family: 'Shadows Into Light', cursive;
+color: rgb(93, 94, 196);
+font-size: 80px;
+}
+#parrafo {
+    background-color: rgb(180, 246, 255);
+    font-family: 'Shadows Into Light', cursive;
+}
+#caja1{
+    display: flex;
+    justify-content: center;
+}
+#image {
+    width: 300px;
+    height: 500px;
+}
+#caja3{
+    display: flex;
+    justify-content: center;
+}
